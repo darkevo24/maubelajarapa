@@ -258,7 +258,7 @@ function App() {
                       <img className=' w-6 h-6' src={time}></img>
                       <p className='ml-2 font-["SF Pro Display"] font-[500] text-[16px] leading-[24px] text-[#252A3C]'>{item.minute}</p>
                       <img className='w-[6px] h-[6px] mx-4' src={ellipse}></img>
-                      <img className='ml-2 w-6 h-6' src={time}></img>
+                      <img className='ml-2 w-6 h-6' src={download}></img>
                       <p className=' font-["SF Pro Display"] font-[500] text-[16px] leading-[24px] text-[#252A3C]'>{item.download}</p>
                       <img className='ml-3 w-8 h-8' src={dot2}></img>
                       </div>
